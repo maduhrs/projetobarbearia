@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="public/css/fonts/fontawesome-free-5.14.0-web/css/all.css">
 
 
-    <title>Barbearia JoJo</title>
+    <title>Barbearia JoJo </title>
 </head>
 
 <body>
