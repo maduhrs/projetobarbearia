@@ -1,0 +1,198 @@
+    @font-face {
+        font-family: "titulo";
+        src: url(../fonts/BebasNeue-Regular.ttf);
+    }
+    
+    @font-face {
+        font-family: "fonte";
+        src: url(../fonts/theboldfont.ttf);
+    }
+    
+    .content h2 {
+        font-family: "fonte";
+    }
+    
+    .content h2 span {
+        font-family: "titulo";
+        text-align: center;
+    }
+    
+    .social li {
+        margin-right: auto;
+    }
+    
+    #list li:first-child {
+        position: absolute;
+        top: 0;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    header {
+        overflow-x: hidden;
+    }
+    
+    #menu {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        width: 100%;
+        z-index: 100;
+        position: fixed;
+        top: 0;
+        background: linear-gradient(to left, #FFD700, #1C1C1C);
+        padding: 0.9em;
+    }
+    
+    #menu ul {
+        list-style: none;
+        display: inline-flex;
+    }
+    
+    #menu ul li {
+        display: inline-block;
+        padding: 3px;
+    }
+    
+    #menu ul li a {
+        padding: 2px 10px;
+        display: inline-block;
+        /* visual do link */
+        color: #ffffff;
+        text-decoration: none;
+    }
+    
+    h3 {
+        font-size: 60px;
+        font-family: "titulo";
+    }
+    
+    .box1 {
+        align-items: center;
+        justify-content: center;
+        width: 70%;
+        margin: 0 auto;
+    }
+    
+    .box2 {
+        position: relative;
+        align-items: center;
+        justify-content: center;
+        width: 70%;
+        margin: 0 auto;
+    }
+    
+    .box3 {
+        align-items: center;
+        justify-content: center;
+        width: 70%;
+        margin: 0 auto;
+    }
+    
+    .card-img-top .rounded-circle {
+        width: 50px;
+    }
+    
+    .container1 {
+        padding: 20px;
+        background-color: #1C1C1C;
+        display: flex;
+    }
+    
+    .container2 {
+        position: relative;
+        background: linear-gradient(to left, #FFD700, #1C1C1C);
+    }
+    
+    .container2 h3 {
+        position: relative;
+    }
+    
+    .container3 {
+        padding: 20px;
+        margin: 0 auto;
+        display: block;
+        background: linear-gradient(135deg, #000000, #4F4F4F);
+    }
+    
+    .container3 h3 {
+        color: #FFFFFF
+    }
+    
+    .container3 .col label {
+        color: #FFFFFF;
+    }
+    
+    .container3 .col-6 label {
+        color: #FFFFFF;
+    }
+    
+    .col-sm-2 {
+        color: #FFFFFF;
+    }
+    
+    .container4 {
+        padding: 20px;
+        background-image: url(../img/curso-barbeiro-2.png);
+    }
+    /* box contato */
+    
+    .box4 {
+        width: 70%;
+        margin: 0 auto;
+    }
+    
+    .conteudo {
+        padding: 10px;
+        width: 456px;
+        height: 377px;
+        margin: 0 auto;
+        border-radius: 20px;
+        background: linear-gradient(135deg, #FFD700, #1C1C1C);
+    }
+    
+    .conteudo h2 {
+        font-family: "titulo";
+        font-style: 40px;
+        margin: 0;
+        padding: 10px 0 0 0;
+        color: #ffffff;
+    }
+    
+    .conteudo p {
+        margin: 0;
+        color: #ffffff;
+    }
+    
+    .container5 {
+        margin: 0;
+        background-color: #1C1C1C;
+    }
+    
+    .list-group .list-group-item {
+        list-style: none;
+        background-color: #1C1C1C;
+        color: #ffffff;
+    }
+    
+    .custom-shape-divider-top-1602370345 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        overflow: hidden;
+        line-height: 0;
+    }
+    
+    .custom-shape-divider-top-1602370345 svg {
+        position: relative;
+        display: block;
+        width: calc(100% + 1.3px);
+        height: 500px;
+    }
+    
+    .custom-shape-divider-top-1602370345 .shape-fill {
+        fill: #FFFFFF;
+    }
