@@ -51,7 +51,7 @@
             <div class="content">
                 <div class="textbox">
                     <h2>Barbearia
-                        <br><span>do Jotaro</span></h2> 
+                        <br><span>do Jotaro.</span></h2> 
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt, dolorum laborum iusto, et porro excepturi, temporibus reprehenderit natus molestiae ab ducimus! Culpa earum, rerum hic maiores libero dicta. Ipsa, veritatis.</p>
                 </div>
             </div>
