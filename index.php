@@ -152,7 +152,7 @@
                     <div class="card" style="width: 12rem;">
                         <img class="card-img-top " style="width: 9em; justify-content: center;" src="public/img/massage.png" alt="Imagem de capa do card">
                         <div class="card-body">
-                            <h5 class="card-title text-center">Massagem</h5>
+                            <h5 class="card-title text-center">Massagem oooi </h5>
                             <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
                             <a href="#section4" class="btn btn-warning">Agendar</a>
                         </div>
