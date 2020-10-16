@@ -149,6 +149,7 @@
                 </div>
 
                 <div class="col">
+                
                     <div class="card" style="width: 12rem;">
                         <img class="card-img-top " style="width: 9em; justify-content: center;" src="public/img/massage.png" alt="Imagem de capa do card">
                         <div class="card-body">
